@@ -1,2 +1,2 @@
-# framework-res__auto_generated_rro_vendor
+# framework-res__auto_generated_rro_product
 Test product overlay
